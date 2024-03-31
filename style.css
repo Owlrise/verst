@@ -30,7 +30,7 @@ html {
 
 body {
   background-color: #131313;
-  color: #E6E6E6;
+  color: #E7E7E7;
 }
 
 header {
@@ -104,6 +104,7 @@ word-spacing: 70px;
 background-image: url(foto/logo.png);
 background-repeat: no-repeat;
 background-position: 127px 50%;
+color: #F7F7F7;
 }
 
 nav {
@@ -120,8 +121,8 @@ margin-top: 30px;
 }
 
 .active {
-  color: yellow;
-  border-bottom: 2px solid yellow;
+  color: #E8CF36;
+  border-bottom: 2px solid #E8CF36;
   padding-bottom: 10px;
 }
 
@@ -130,8 +131,8 @@ ul a {
 }
 
 nav a:hover {
-  color: yellow;
-  border-bottom: 2px solid yellow;
+  color: #E8CF36;
+  border-bottom: 2px solid #E8CF36;
   padding-bottom: 10px;
 }
 
@@ -161,10 +162,11 @@ nav a:hover {
 .dimtext h2 {
   font-size: 3.6rem;
   font-weight: 700;
+  color: #F4F4F4;
 }
 
 .dimtext span {
-  color: yellow;
+  color: #E8CF36;
   font-size: 3.6rem;
 }
 
@@ -175,7 +177,7 @@ nav a:hover {
 }
 
 .button > a {
-  color: yellow;
+  color: #E8CF36;
   outline: none;
   text-decoration: none;
   display: block;
@@ -184,13 +186,13 @@ nav a:hover {
   text-align: center;
   width: 168px;
   margin-top: 35px;
-  border: 1px solid yellow;
+  border: 1px solid #E8CF36;
   border-radius: 8px;
 }
 
 .button a:hover {
   color: #0f0f0f;
-  background: yellow;
+  background: #E8CF36;
 }
 
 .dimond > img {
@@ -237,7 +239,7 @@ main ul .gray .lidiv1 p {
 }
 
 main ul .gray .lidiv1 .lip {
-  color: yellow;
+  color: #E8CF36;
   font-size: 1.6rem;
   margin-top: -10px;
   padding-bottom: 10px;
@@ -251,6 +253,7 @@ main ul .gray .lidiv1 .lip {
   font-size: 2.4rem;
   width: 153px;
   font-weight: 600;
+  color: #F4F4F4;
 }
 
 .container .top .similiar {
@@ -353,6 +356,7 @@ float: right;
   width: 300px;
   text-align: center;
   font-weight: 600;
+  color: #F4F4F4;
 }
 
 .similiar > svg {
@@ -506,6 +510,7 @@ main .foot .articlefoot h2 {
 font-size: 2.4rem;
 text-align: center;
 margin-top: 5px;
+color: #F4F4F4;
 }
 
 main .foot .articlefoot p {
